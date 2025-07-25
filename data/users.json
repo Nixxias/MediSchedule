@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "dr-smith",
+    "password": "password1234",
+    "fullName": "Dr. Smith",
+    "specialty": "General Physician"
+  },
+  {
+    "id": 2,
+    "username": "dr-johnson",
+    "password": "password1233",
+    "fullName": "Dr. Johnson",
+    "specialty": "Pediatrician"
+  },
+  {
+    "id": 3,
+    "username": "dr-williams",
+    "password": "password1232",
+    "fullName": "Dr. Williams",
+    "specialty": "Cardiologist"
+  }
+]

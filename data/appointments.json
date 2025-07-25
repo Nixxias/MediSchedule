@@ -1,0 +1,41 @@
+[
+  {
+    "firstName": "TEST",
+    "lastName": "Teściarz",
+    "email": "test@gmail.com",
+    "phone": "48533901160",
+    "doctorId": "dr-johnson",
+    "appointmentDate": "2025-05-31",
+    "appointmentTime": "12:00",
+    "reason": "ból głowy",
+    "id": 2,
+    "status": "confirmed",
+    "createdAt": "2025-05-30T16:22:13.070Z"
+  },
+  {
+    "firstName": "Elżbieta",
+    "lastName": "Nowak",
+    "email": "elzbietanowak1@gmail.com",
+    "phone": "48123456789",
+    "doctorId": "dr-smith",
+    "appointmentDate": "2025-07-26",
+    "appointmentTime": "14:00",
+    "reason": "Silne migreny",
+    "id": 3,
+    "status": "confirmed",
+    "createdAt": "2025-07-25T09:26:05.945Z"
+  },
+  {
+    "firstName": "Małgorzata",
+    "lastName": "Niebywał",
+    "email": "malgorzata23@gmail.com",
+    "phone": "48123456780",
+    "doctorId": "dr-smith",
+    "appointmentDate": "2025-07-26",
+    "appointmentTime": "15:00",
+    "reason": "Kaszel",
+    "id": 4,
+    "status": "confirmed",
+    "createdAt": "2025-07-25T09:27:11.735Z"
+  }
+]
